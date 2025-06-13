@@ -1,0 +1,4 @@
+server.port=8899
+contextpath=/app
+mvc.view.suffix=.jsp
+author = bunny
